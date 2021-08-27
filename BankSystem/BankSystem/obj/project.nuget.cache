@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4sIHOI6Z8NHjfS0KXTzYQ3Ysur3ELO+inEV9S/qPZCPzAbJnSZ76Lpn5EK1+W/5/F/r7zlRp5jimnHRDh/YkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bolshevik\\source\\repos\\BankSystem\\BankSystem\\BankSystem\\BankSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bolshevik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
